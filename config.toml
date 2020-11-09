@@ -1,0 +1,5 @@
+baseURL = "https://madpresso.github.io"
+languageCode = "en-us"
+title = "MadPresso controller project"
+publishDir = "docs"
+theme = "ananke"
